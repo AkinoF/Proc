@@ -1,0 +1,2 @@
+public class Proc1 {
+}
